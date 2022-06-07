@@ -1,0 +1,10 @@
+int num;
+Console.WriteLine("Digite um número");
+num = Convert.ToInt32(Console.ReadLine());
+if(num ==0){
+
+if (num % 2 == 0){
+	Console.WriteLine("Você digitou 0");
+
+
+}

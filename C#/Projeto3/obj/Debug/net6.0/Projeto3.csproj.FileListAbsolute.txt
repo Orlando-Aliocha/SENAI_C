@@ -1,0 +1,15 @@
+C:\workspace\SENAI_C\C#\Projeto3\obj\Debug\net6.0\Projeto3.csproj.AssemblyReference.cache
+C:\workspace\SENAI_C\C#\Projeto3\obj\Debug\net6.0\Projeto3.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\SENAI_C\C#\Projeto3\obj\Debug\net6.0\Projeto3.AssemblyInfoInputs.cache
+C:\workspace\SENAI_C\C#\Projeto3\obj\Debug\net6.0\Projeto3.AssemblyInfo.cs
+C:\workspace\SENAI_C\C#\Projeto3\obj\Debug\net6.0\Projeto3.csproj.CoreCompileInputs.cache
+C:\workspace\SENAI_C\C#\Projeto3\bin\Debug\net6.0\Projeto3.exe
+C:\workspace\SENAI_C\C#\Projeto3\bin\Debug\net6.0\Projeto3.deps.json
+C:\workspace\SENAI_C\C#\Projeto3\bin\Debug\net6.0\Projeto3.runtimeconfig.json
+C:\workspace\SENAI_C\C#\Projeto3\bin\Debug\net6.0\Projeto3.dll
+C:\workspace\SENAI_C\C#\Projeto3\bin\Debug\net6.0\Projeto3.pdb
+C:\workspace\SENAI_C\C#\Projeto3\obj\Debug\net6.0\Projeto3.dll
+C:\workspace\SENAI_C\C#\Projeto3\obj\Debug\net6.0\refint\Projeto3.dll
+C:\workspace\SENAI_C\C#\Projeto3\obj\Debug\net6.0\Projeto3.pdb
+C:\workspace\SENAI_C\C#\Projeto3\obj\Debug\net6.0\Projeto3.genruntimeconfig.cache
+C:\workspace\SENAI_C\C#\Projeto3\obj\Debug\net6.0\ref\Projeto3.dll
